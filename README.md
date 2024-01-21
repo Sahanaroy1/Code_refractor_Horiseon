@@ -16,5 +16,6 @@
 
 The images illustrates the changes:
 
+![compare html code](https://github.com/Sahanaroy1/week1_challenge_refractor_code/assets/127791384/cc3b9657-1111-403c-bd51-2e19b084b4a8)
 
 
