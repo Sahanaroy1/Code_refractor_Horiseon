@@ -14,6 +14,9 @@
 * Its done when in the copied verion of css the above changes are also made.
 * Its done when its following changes are committed in the github repository.
 
+Website Screenshot
+![Website screenshot](https://github.com/Sahanaroy1/week1_challenge_refractor_code/assets/127791384/7c6441bf-81d1-42a8-a9d5-577b5dbc9fd2)
+
 The images illustrates the changes:
 * Snippet Html Changes
 ![compare html code](https://github.com/Sahanaroy1/week1_challenge_refractor_code/assets/127791384/cc3b9657-1111-403c-bd51-2e19b084b4a8)
