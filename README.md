@@ -1,4 +1,4 @@
-# Week1_Challenge_Refractor_Code
+# Code_refractor_Horiseon
 
 ## User Story
 . As a web developer this week1 challenge is to refractor the code of a existing web page to align it with the latest Html5 semantics.Along with changes in CSS provided the appearence of the page remaining the same.
